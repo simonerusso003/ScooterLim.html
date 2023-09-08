@@ -1,0 +1,112 @@
+body {
+  background-image: url(background.jpg);
+
+
+}
+
+.container{
+  width: 1000px;
+  margin: auto;
+  padding: 300px;
+}
+.logo {
+  width: 800px;
+  margin-left: 300px;
+}
+h1 {
+  text-align: left;
+  color: #4fe84f;
+  font-size: 80px;
+  width: 3000px;
+  display: inline-block;
+  margin-right: 900px;
+}
+nav {
+  display: inline-block;
+  width: 4000px;
+}
+input {
+font-size: 30px;
+width: 400px;
+margin-top: 40px;
+border: center;
+display: inline-block;
+}
+.Luci {
+  width: 200px;
+  margin-left: 20px;
+}
+.Speciale {
+  width: 110px;
+  margin-left: 700px;
+
+}
+
+.Termina {
+  width: 300px;
+  margin-left: 20px;
+}
+.rettangolo {
+  background-color: #4fe84f;
+  width: 2000px;
+  height: 100px;
+  margin-right: 800px;
+}
+.box{
+  height: 30px;
+  display: inline-block;
+  width: 28px;
+}
+#Monopattino {
+  color: white;
+  font-size: 60px;
+}
+p {
+  color: white;
+  font-size: 50px;
+  display: inline-block;
+  width: 4000px;
+  margin: 0;
+}
+.riquadro {
+  background-color: orange;
+  width: 850px;
+  height: 100px;
+  margin-right: 800px;
+}
+.check {
+  height: 30px;
+  display: inline-block;
+  width: 28px;
+}
+#Carica {
+  color: white;
+  font-size: 60px;
+}
+.row {
+  background-color: #4fe84f;
+  width: 1500px;
+  height: 100px;
+  margin-right: 800px;
+}
+.Quadratino {
+  height: 30px;
+  display: inline-block;
+  width: 28px;
+}
+#MonopattinoFede {
+  color: white;
+  font-size: 60px;
+}
+.rowcarica {
+  background-color: darkred;
+  width: 350px;
+  height: 100px;
+  margin-right: 800px;
+}
+.shadow {
+ background-color: #1d1a1a94;
+ margin: 200px;
+ border-radius: 20px;
+ 
+}
